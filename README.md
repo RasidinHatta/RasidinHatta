@@ -9,6 +9,7 @@
 
 **i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
+![](dino.gif)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RasidinHatta&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
