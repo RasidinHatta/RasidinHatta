@@ -42,6 +42,8 @@ I'm a passionate developer with a knack for creating dynamic and intuitive web a
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Reactbit](https://img.shields.io/badge/reactbit-0A0A0A?style=for-the-badge&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Tools & Databases
 
