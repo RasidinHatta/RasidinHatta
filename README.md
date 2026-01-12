@@ -41,6 +41,7 @@ I'm a passionate developer with a knack for creating dynamic and intuitive web a
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools & Databases
 
