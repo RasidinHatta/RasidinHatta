@@ -8,6 +8,7 @@
   <br/>
   <i>"I love code and building things that live on the internet."</i>
   <br/>
+    <img src="cat-confuse.gif" width="180" alt="confuse cat" />
 </div>
 
 <br/>
