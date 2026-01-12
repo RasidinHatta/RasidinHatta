@@ -60,30 +60,32 @@ I'm a passionate developer with a knack for creating dynamic and intuitive web a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasidinHatta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="RasidinHatta's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasidinHatta&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RasidinHatta&show_icons=true&theme=radical)
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasidinHatta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=RasidinHatta&theme=radical)
 
 <br/>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RasidinHatta&layout=compact&theme=radical)
+
+</div>
 
 ## 🏆 Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RasidinHatta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-  </a>
+
+![](https://github-trophies.vercel.app/?username=RasidinHatta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="dino.gif" width="60" alt="dino" />
+  <img src="dino.gif" alt="dino" />
   <br/>
-  <img src="https://visitcount.itsvg.in/api?id=RasidinHatta&icon=0&color=0" alt="visitor count" />
 </div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RasidinHatta.RasidinHatta)
